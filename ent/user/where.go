@@ -5,7 +5,6 @@ package user
 import (
 	"entgo.io/bug/ent/predicate"
 	"entgo.io/ent/dialect/sql"
-	"github.com/oklog/ulid/v2"
 	ulid "github.com/oklog/ulid/v2"
 )
 

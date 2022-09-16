@@ -8,7 +8,6 @@ import (
 
 	"entgo.io/bug/ent/user"
 	"entgo.io/ent/dialect/sql"
-	"github.com/oklog/ulid/v2"
 	ulid "github.com/oklog/ulid/v2"
 )
 
